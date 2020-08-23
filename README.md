@@ -33,3 +33,5 @@ You can understand how the approach between python and arduino works.
 - [x] Scan for viruses
 - [x] Communication via Serial
 - [x] Easy to understand
+
+Example: https://www.youtube.com/watch?v=LC1jm7900nw
