@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="469" height="282" src="https://i.imgur.com/dOpe5my.png" alt="Floette">
+    <img width="469" height="282" src="https://i.imgur.com/Jwyz6d9.png" alt="Floette">
     <br>
     <br>
     <br>
