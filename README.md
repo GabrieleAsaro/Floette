@@ -24,14 +24,14 @@
 # Floette [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
-# 📜 Why do you need Floette ?
+# 📜 Why Floette ?
 
-You can understand how the approach between python and arduino works.
+Using Floette you can understand how to approach a simple communication between python and arduino over serial.
 
-# 💥 What does it do ?
+# 💥 What does Floette offer ?
 
-- [x] Scan for viruses
-- [x] Communication via Serial
-- [x] Easy to understand
+- [x] Scan a directory for viruses
+- [x] Demonstrate communication over serial
+- [x] Easy to read and understand
 
-Example: https://www.youtube.com/watch?v=LC1jm7900nw
+Demo: https://www.youtube.com/watch?v=LC1jm7900nw
